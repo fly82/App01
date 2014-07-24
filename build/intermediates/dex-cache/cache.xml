@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/vaim/AndroidStudioProjects/App01/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-a618d3da2f7518628384c481182a330253efe220.jar"
+        jar="/home/vaim/AndroidStudioProjects/App01/app/libs/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da"/>
+    <item
+        dex="/home/vaim/AndroidStudioProjects/App01/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-66e8f9d59c3c7131e1aa0253db6834d986ecbace.jar"
+        jar="/home/vaim/IDEA/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/vaim/AndroidStudioProjects/App01/app/build/intermediates/pre-dexed/debug/classes-626e864cb78941af3c079867e8d06ba98e7d4ca4.jar"
+        jar="/home/vaim/AndroidStudioProjects/App01/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>
